@@ -1,0 +1,449 @@
+/* 1 */
+{
+    "_id" : ObjectId("55d045fe797cd57f5c6f123f"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/fujikomine1/status/632789488293515264",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("55d04601797cd57f5c6f1240"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/mithilko/status/632789285930991616",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("55d04603797cd57f5c6f1241"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/blogsbelleza/status/632786768601944064",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("55d04605797cd57f5c6f1242"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/jparslow1965/status/632786396672065536",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("55d04606797cd57f5c6f1243"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/acuerdo_india/status/632785948221161473",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("55d04608797cd57f5c6f1244"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/magic_perfume/status/632778074463989760",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("55d0460a797cd57f5c6f1245"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/hannafloriza/status/632777914950402049",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("55d0460c797cd57f5c6f1246"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/OffersonlineUSA/status/632775855584882688",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("55d0460e797cd57f5c6f1247"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/ijkpc443/status/632773799516045313",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("55d04610797cd57f5c6f1248"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/scfsj658/status/632771675193413633",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("55d04612797cd57f5c6f1249"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/iamjsondizon/status/632767827666182144",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("55d04614797cd57f5c6f124a"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/ysasam/status/632766333260820480",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("55d04616797cd57f5c6f124b"),
+    "nb_share" : 3.0000000000000000,
+    "link" : "https://twitter.com/AutoSportsArt/status/632761311152197632",
+    "nb_likes" : 1.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("55d04618797cd57f5c6f124c"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/filippopar/status/632760500410036224",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("55d0461a797cd57f5c6f124d"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/TOROI2009/status/632759919213568000",
+    "nb_likes" : 1.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("55d0461c797cd57f5c6f124e"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/interrisquoti/status/632758487269773312",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("55d0461e797cd57f5c6f124f"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/deapacelli/status/632754905447563264",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("55d0461f797cd57f5c6f1250"),
+    "nb_share" : 3.0000000000000000,
+    "link" : "https://twitter.com/TheSoorajP_FC/status/632743396038172672",
+    "nb_likes" : 9.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("55d04621797cd57f5c6f1251"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/DjACumbe/status/632792708755533824",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("55d04624797cd57f5c6f1252"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/SocAdvisercom/status/632792667534061569",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("55d04625797cd57f5c6f1253"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/hamsterwatch/status/632792619496550400",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("55d04627797cd57f5c6f1254"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/truckyellow/status/632792590459375617",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("55d04629797cd57f5c6f1255"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/lopezherodoto/status/632792443977625600",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("55d0462b797cd57f5c6f1256"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/BostonTalkRadio/status/632792435844734976",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("55d0462c797cd57f5c6f1257"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/watchesell/status/632792407508168704",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("55d0462e797cd57f5c6f1258"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/mohd_diesel_14/status/632792321113894912",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("55d04631797cd57f5c6f1259"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/jculture_en/status/632792274469044224",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("55d04632797cd57f5c6f125a"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/BT_India/status/632792238393819136",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("55d04634797cd57f5c6f125b"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/mestascelestino/status/632792173499523072",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("55d04635797cd57f5c6f125c"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/mestascelestino/status/632792171779915776",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("55d04637797cd57f5c6f125d"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/mestascelestino/status/632792169762430976",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("55d0463c797cd57f5c6f125e"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/tre_diesel/status/632792044658753536",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("55d0463e797cd57f5c6f125f"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/CarringtonCarey/status/632792040107978752",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("55d04640797cd57f5c6f1260"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/Pautva__Hiifca/status/632791939948126208",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("55d04641797cd57f5c6f1261"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/Pautva__Hiifca/status/632791932620640256",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("55d04643797cd57f5c6f1262"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/Pautva__Hiifca/status/632791928329895936",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("55d04647797cd57f5c6f1263"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/tre_diesel/status/632791761371439104",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("55d04648797cd57f5c6f1264"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/GoalSetRadio/status/632791932305993728",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("55d0464a797cd57f5c6f1265"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/mslocomotives/status/632791912445906944",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("55d0464b797cd57f5c6f1266"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/mslocomotives/status/632791870679027712",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("55d0464d797cd57f5c6f1267"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/railroad_models/status/632791867432660992",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("55d0464f797cd57f5c6f1268"),
+    "nb_share" : 2.0000000000000000,
+    "link" : "https://twitter.com/VapePolice/status/632791757801918465",
+    "nb_likes" : 5.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("55d04651797cd57f5c6f1269"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/letiletiramoz/status/632791663585443840",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("55d04653797cd57f5c6f126a"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/marinaregulo/status/632791643339550720",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("55d04655797cd57f5c6f126b"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/EternalTheMC/status/632791528205910016",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("55d04656797cd57f5c6f126c"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/stardygirl/status/632791392327233536",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("55d04658797cd57f5c6f126d"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/3M_cortez/status/632791301151440896",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("55d0465a797cd57f5c6f126e"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/3M_cortez/status/632788623654551552",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("55d0465c797cd57f5c6f126f"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/pineirodacio1/status/632791212529963009",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("55d0465d797cd57f5c6f1270"),
+    "nb_share" : 0.0000000000000000,
+    "link" : "https://twitter.com/dwi_diesel/status/632791212509032448",
+    "nb_likes" : 0.0000000000000000,
+    "nb_comments" : 0
+}

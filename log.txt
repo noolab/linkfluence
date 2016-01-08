@@ -1,0 +1,1501 @@
+Last login: Wed Aug  5 09:36:05 on ttys001
+You have mail.
+MacBook-Pro-de-Djisse:~ djisse$ cd Documents/LINFLUENCE
+MacBook-Pro-de-Djisse:LINFLUENCE djisse$ ./listen.sh safirperfume
+Twitter: Getting users about safirperfume
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling finish
+2835160283 :https://twitter.com/safirperfum
+Brownsing links now
+Twitter: Getting data a this user https://twitter.com/safirperfum
+Error  for https://twitter.com/safirperfum
+Displaying result
+insert user of this searchsafirperfume
+inserting user
+Twitter: Getting list of post about : safirperfume
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling finish
+inserting post of this search:safirperfume
+inserting post...
+upserting post
+No user found for this post... inserting safirperfumery
+Inserting user by link http://twitter.com/safirperfumery
+Twitter: Getting data a this user http://twitter.com/safirperfumery
+{"website": "twitter", "username": "safirperfumery", "url_avatar": "https://pbs.twimg.com/profile_images/602067226221477888/qB2mE8IX_400x400.jpg", "nb_following": "44", "location": "\n            \u062a\u0647\u0631\u0627\u0646\n        ", "nb_followers": "74", "nb_favorite": "0", "personnal_web": "\n  safirperfumery.com\n", "nb_posts": "1\u00a0688", "link": "http://twitter.com/safirperfumery"}
+inserting user
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+No user found for this post... inserting priskila_pt
+Inserting user by link http://twitter.com/priskila_pt
+Twitter: Getting data a this user http://twitter.com/priskila_pt
+{"website": "twitter", "username": "priskila_pt", "url_avatar": "https://pbs.twimg.com/profile_images/582722493745532928/G7XpKeCc_400x400.jpg", "nb_following": "405", "location": "\n            Jakarta\n        ", "nb_followers": "88", "nb_favorite": "0", "personnal_web": "\n  priskila.com\n", "nb_posts": "260", "link": "http://twitter.com/priskila_pt"}
+inserting user
+upserting post
+User found for this post: priskila_pt => https://twitter.comhttps://twitter.com/priskila_pt
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+No user found for this post... inserting NazilaRavandy
+Inserting user by link http://twitter.com/NazilaRavandy
+Twitter: Getting data a this user http://twitter.com/NazilaRavandy
+{"website": "twitter", "username": "NazilaRavandy", "url_avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_1_400x400.png", "nb_following": "2", "location": "\n            \n        ", "nb_followers": "2", "nb_favorite": "0", "personnal_web": "none", "nb_posts": "1", "link": "http://twitter.com/NazilaRavandy"}
+inserting user
+upserting post
+User found for this post: NazilaRavandy => https://twitter.comhttps://twitter.com/NazilaRavandy
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+No user found for this post... inserting luxitup
+Inserting user by link http://twitter.com/luxitup
+Twitter: Getting data a this user http://twitter.com/luxitup
+{"website": "twitter", "username": "luxitup", "url_avatar": "https://pbs.twimg.com/profile_images/493640471588003840/B_TbPopx_400x400.jpeg", "nb_following": "367", "location": "\n            \n        ", "nb_followers": "4\u00a0806", "nb_favorite": "50,7\u00a0k", "personnal_web": "none", "nb_posts": "52,2\u00a0k", "link": "http://twitter.com/luxitup"}
+inserting user
+upserting post
+User found for this post: luxitup => https://twitter.comhttps://twitter.com/luxitup
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+INSTA:Scrolling to https://instagram.com/explore/tags/safirperfume/
+Error in scrolling of : No need to scroll https://instagram.com/explore/tags/safirperfume/ :
+INSTA: Getting image about:safirperfume
+INSTA: Getting detail about this post:https://instagram.com/p/4laPlLEcsV/?tagged=safirperfume
+{'website': 'instagram', 'profile': u'https://instagram.com/toptenteh/', 'author_username': u'toptenteh', 'link': u'https://instagram.com/p/4laPlLEcsV/?tagged=safirperfume', 'nb_comments': 2, 'date': u'1 juillet 2015', 'text': u'#Toptentehran #safirperfume#luxury#TehranSensational ScentsBranches: Art Center, Fereshteh, Pasdaran, Almas, HyperstarFor more info: toptenteh.com/household/item/228', 'nb_share': 0, 'url_image': u'https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/11376293_1662067150692953_1862872808_n.jpg', 'nb_likes': u'47 J\u2019aime'}
+INSTA: Getting detail about this post:https://instagram.com/p/3IksMcEH-2/?tagged=safirperfume
+{'website': 'instagram', 'profile': u'https://instagram.com/pupamilano.ir/', 'author_username': u'pupamilano.ir', 'link': u'https://instagram.com/p/3IksMcEH-2/?tagged=safirperfume', 'nb_comments': 4, 'date': u'26 mai 2015', 'text': u'\u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0627\u0649 \u0633\u0641\u064a\u0631 \u0627\u0632 \u0628\u0632\u0631\u06af\u062a\u0631\u064a\u0646 \u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0627\u0646 \u067e\u0648\u067e\u0627 \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u06a9\u0634\u0648\u0631:\u0645\u062c\u0645\u0648\u0639\u0647 \u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0627\u0649 \u0639\u0637\u0631 \u0648 \u0644\u0648\u0627\u0632\u0645 \u0622\u0631\u0627\u064a\u0634 \u0633\u0641\u064a\u0631 \u0628\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0645\u0634\u0627\u0648\u0631\u0627\u0646 \u062d\u0631\u0641\u0647 \u0627\u0649 \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0622\u0631\u0627\u064a\u0634\u0649 \u067e\u0648\u067e\u0627 \u0631\u0627 \u0628\u0647 \u0645\u0634\u062a\u0631\u064a\u0627\u0646 \u06af\u0631\u0627\u0645\u0649 \u0645\u0639\u0631\u0641\u0649 \u0645\u0649 \u0646\u0645\u0627\u064a\u0646\u062f.\u0633\u0627\u064a\u0631 \u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0649 \u0647\u0627\u0649 \u067e\u0648\u067e\u0627 \u0628\u0647 \u0632\u0648\u062f\u0649 \u0627\u0639\u0644\u0627\u0645 \u062e\u0648\u0627\u0647\u062f \u0634\u062f.... #pupa#pupacosmetics #pupamakeup #pupamilano #makeup #topmakeup#cosmetics #branch#safirstores#safirperfume#advisors#beautyadvisors#beauty#professional#our#dear#customer#\u067e\u0648\u067e\u0627#\u0644\u0648\u0627\u0632\u0645#\u0622\u0631\u0627\u064a\u0634#\u0645\u0639\u0631\u0641\u0649#\u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0627\u0646#\u0641\u0631\u0648\u0634\u06af\u0627\u0647#\u0633\u0641\u064a\u0631#\u0645\u0634\u0627\u0648\u0631\u0627\u0646#\u062d\u0631\u0641\u0647 \u0627\u0649', 'nb_share': 0, 'url_image': u'https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11363703_469700379861278_1773712811_n.jpg', 'nb_likes': u'66 J\u2019aime'}
+{"posts": [{"website": "instagram", "profile": "https://instagram.com/toptenteh/", "author_username": "toptenteh", "link": "https://instagram.com/p/4laPlLEcsV/?tagged=safirperfume", "nb_comments": 2, "date": "1 juillet 2015", "text": "#Toptentehran #safirperfume#luxury#TehranSensational ScentsBranches: Art Center, Fereshteh, Pasdaran, Almas, HyperstarFor more info: toptenteh.com/household/item/228", "nb_share": 0, "url_image": "https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/11376293_1662067150692953_1862872808_n.jpg", "nb_likes": "47 J\u2019aime"}, {"website": "instagram", "profile": "https://instagram.com/pupamilano.ir/", "author_username": "pupamilano.ir", "link": "https://instagram.com/p/3IksMcEH-2/?tagged=safirperfume", "nb_comments": 4, "date": "26 mai 2015", "text": "\u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0627\u0649 \u0633\u0641\u064a\u0631 \u0627\u0632 \u0628\u0632\u0631\u06af\u062a\u0631\u064a\u0646 \u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0627\u0646 \u067e\u0648\u067e\u0627 \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u06a9\u0634\u0648\u0631:\u0645\u062c\u0645\u0648\u0639\u0647 \u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0627\u0649 \u0639\u0637\u0631 \u0648 \u0644\u0648\u0627\u0632\u0645 \u0622\u0631\u0627\u064a\u0634 \u0633\u0641\u064a\u0631 \u0628\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0645\u0634\u0627\u0648\u0631\u0627\u0646 \u062d\u0631\u0641\u0647 \u0627\u0649 \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0622\u0631\u0627\u064a\u0634\u0649 \u067e\u0648\u067e\u0627 \u0631\u0627 \u0628\u0647 \u0645\u0634\u062a\u0631\u064a\u0627\u0646 \u06af\u0631\u0627\u0645\u0649 \u0645\u0639\u0631\u0641\u0649 \u0645\u0649 \u0646\u0645\u0627\u064a\u0646\u062f.\u0633\u0627\u064a\u0631 \u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0649 \u0647\u0627\u0649 \u067e\u0648\u067e\u0627 \u0628\u0647 \u0632\u0648\u062f\u0649 \u0627\u0639\u0644\u0627\u0645 \u062e\u0648\u0627\u0647\u062f \u0634\u062f.... #pupa#pupacosmetics #pupamakeup #pupamilano #makeup #topmakeup#cosmetics #branch#safirstores#safirperfume#advisors#beautyadvisors#beauty#professional#our#dear#customer#\u067e\u0648\u067e\u0627#\u0644\u0648\u0627\u0632\u0645#\u0622\u0631\u0627\u064a\u0634#\u0645\u0639\u0631\u0641\u0649#\u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0627\u0646#\u0641\u0631\u0648\u0634\u06af\u0627\u0647#\u0633\u0641\u064a\u0631#\u0645\u0634\u0627\u0648\u0631\u0627\u0646#\u062d\u0631\u0641\u0647 \u0627\u0649", "nb_share": 0, "url_image": "https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11363703_469700379861278_1773712811_n.jpg", "nb_likes": "66 J\u2019aime"}]}
+inserting post of this search:safirperfume
+inserting post...
+upserting post
+No user found for this post... inserting toptenteh
+Inserting user insta toptenteh
+INSTA: Getting data of this user:toptenteh
+{"website": "instagram", "username": "toptenteh", "url_avatar": "https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-19/11325775_656369531160963_944976971_a.jpg", "nb_following": "3,132", "location": "none", "nb_followers": "1,737", "nb_favorite": "0", "personnal_web": "none", "nb_posts": "62", "link": "https://instagram.com/toptenteh/"}
+inserting user
+upserting post
+User found for this post: toptenteh => https://instagram.com/p/4laPlLEcsV/?tagged=safirperfume
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+No user found for this post... inserting pupamilano.ir
+Inserting user insta pupamilano.ir
+INSTA: Getting data of this user:pupamilano.ir
+{"website": "instagram", "username": "pupamilano.ir", "url_avatar": "https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-19/11325775_656369531160963_944976971_a.jpg", "nb_following": "3,132", "location": "none", "nb_followers": "1,737", "nb_favorite": "0", "personnal_web": "none", "nb_posts": "62", "link": "https://instagram.com/pupamilano.ir/"}
+inserting user
+upserting post
+User found for this post: pupamilano.ir => https://instagram.com/p/3IksMcEH-2/?tagged=safirperfume
+memebers found: 0
+adding the post
+adding post
+Post added:
+WARNING CLOSING CONNEXION
+FB: Search about safirperfume
+Connection to facebook.com
+inserting post of this search:safirperfume
+inserting post...
+upserting post
+No user found for this post... inserting Amirperfume blogspot
+inserting new user : https://www.facebook.com/amir.perfume
+Inserting user insta https://www.facebook.com/amir.perfume
+FB: Getting data about this user: https://www.facebook.com/amir.perfume
+Already connected!
+inserting user
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.857809560922579/857808614256007/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+No user found for this post... inserting Nurul Syafwah
+inserting new user : https://www.facebook.com/syafwah
+Inserting user insta https://www.facebook.com/syafwah
+FB: Getting data about this user: https://www.facebook.com/syafwah
+Already connected!
+inserting user
+upserting post
+User found for this post: Nurul Syafwah => https://www.facebook.com/photo.php?fbid=1682289455327741&set=a.1642046076018746.1073742083.100006401073627&type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.856701704366698/856700961033439/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.852691941434341/852690684767800/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.851895644847304/851897388180463/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.851569714879897/851568364880032/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.848058615231007/848058315231037/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.846674022036133/846672128702989/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.846324665404402/846320882071447/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.845098848860317/845098632193672/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.844688805567988/844681478902054/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.840905525946316/840905112613024/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.840162019354000/840159512687584/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.836076719762530/836076269762575/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.834920843211451/834920369878165/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.829915163712019/829914917045377/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.829193433784192.1073741836.148811868489022/829194540450748/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.829193433784192.1073741836.148811868489022/829194620450740/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.823344511035751/823340387702830/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.829915163712019/829914917045377/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.829193433784192.1073741836.148811868489022/829194540450748/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.829193433784192.1073741836.148811868489022/829194620450740/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.823344511035751/823340387702830/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820245974678938/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246091345593/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246181345584/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246581345544/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820250774678458/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820251794678356/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820252278011641/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246301345572/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246764678859/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246848012184/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820248084678727/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820251604678375/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820252068011662/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820252091344993/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.819720694731466/819718368065032/?type=1
+memebers found: 0
+adding the post
+adding post
+Post added:
+Twitter: Getting users about safirperfume
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling finish
+2835160283 :https://twitter.com/safirperfum
+Brownsing links now
+Twitter: Getting data a this user https://twitter.com/safirperfum
+Error  for https://twitter.com/safirperfum
+Displaying result
+insert user of this searchsafirperfume
+inserting user
+Twitter: Getting list of post about : safirperfume
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling finish
+inserting post of this search:safirperfume
+inserting post...
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: priskila_pt => https://twitter.comhttps://twitter.com/priskila_pt
+memebers found: 1
+post updated!
+upserting post
+User found for this post: NazilaRavandy => https://twitter.comhttps://twitter.com/NazilaRavandy
+memebers found: 1
+post updated!
+upserting post
+User found for this post: luxitup => https://twitter.comhttps://twitter.com/luxitup
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+INSTA:Scrolling to https://instagram.com/explore/tags/safirperfume/
+Error in scrolling of : No need to scroll https://instagram.com/explore/tags/safirperfume/ :
+INSTA: Getting image about:safirperfume
+INSTA: Getting detail about this post:https://instagram.com/p/4laPlLEcsV/?tagged=safirperfume
+{'website': 'instagram', 'profile': u'https://instagram.com/toptenteh/', 'author_username': u'toptenteh', 'link': u'https://instagram.com/p/4laPlLEcsV/?tagged=safirperfume', 'nb_comments': 2, 'date': u'1 juillet 2015', 'text': u'#Toptentehran #safirperfume#luxury#TehranSensational ScentsBranches: Art Center, Fereshteh, Pasdaran, Almas, HyperstarFor more info: toptenteh.com/household/item/228', 'nb_share': 0, 'url_image': u'https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/11376293_1662067150692953_1862872808_n.jpg', 'nb_likes': u'47 J\u2019aime'}
+INSTA: Getting detail about this post:https://instagram.com/p/3IksMcEH-2/?tagged=safirperfume
+{'website': 'instagram', 'profile': u'https://instagram.com/pupamilano.ir/', 'author_username': u'pupamilano.ir', 'link': u'https://instagram.com/p/3IksMcEH-2/?tagged=safirperfume', 'nb_comments': 4, 'date': u'26 mai 2015', 'text': u'\u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0627\u0649 \u0633\u0641\u064a\u0631 \u0627\u0632 \u0628\u0632\u0631\u06af\u062a\u0631\u064a\u0646 \u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0627\u0646 \u067e\u0648\u067e\u0627 \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u06a9\u0634\u0648\u0631:\u0645\u062c\u0645\u0648\u0639\u0647 \u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0627\u0649 \u0639\u0637\u0631 \u0648 \u0644\u0648\u0627\u0632\u0645 \u0622\u0631\u0627\u064a\u0634 \u0633\u0641\u064a\u0631 \u0628\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0645\u0634\u0627\u0648\u0631\u0627\u0646 \u062d\u0631\u0641\u0647 \u0627\u0649 \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0622\u0631\u0627\u064a\u0634\u0649 \u067e\u0648\u067e\u0627 \u0631\u0627 \u0628\u0647 \u0645\u0634\u062a\u0631\u064a\u0627\u0646 \u06af\u0631\u0627\u0645\u0649 \u0645\u0639\u0631\u0641\u0649 \u0645\u0649 \u0646\u0645\u0627\u064a\u0646\u062f.\u0633\u0627\u064a\u0631 \u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0649 \u0647\u0627\u0649 \u067e\u0648\u067e\u0627 \u0628\u0647 \u0632\u0648\u062f\u0649 \u0627\u0639\u0644\u0627\u0645 \u062e\u0648\u0627\u0647\u062f \u0634\u062f.... #pupa#pupacosmetics #pupamakeup #pupamilano #makeup #topmakeup#cosmetics #branch#safirstores#safirperfume#advisors#beautyadvisors#beauty#professional#our#dear#customer#\u067e\u0648\u067e\u0627#\u0644\u0648\u0627\u0632\u0645#\u0622\u0631\u0627\u064a\u0634#\u0645\u0639\u0631\u0641\u0649#\u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0627\u0646#\u0641\u0631\u0648\u0634\u06af\u0627\u0647#\u0633\u0641\u064a\u0631#\u0645\u0634\u0627\u0648\u0631\u0627\u0646#\u062d\u0631\u0641\u0647 \u0627\u0649', 'nb_share': 0, 'url_image': u'https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11363703_469700379861278_1773712811_n.jpg', 'nb_likes': u'66 J\u2019aime'}
+{"posts": [{"website": "instagram", "profile": "https://instagram.com/toptenteh/", "author_username": "toptenteh", "link": "https://instagram.com/p/4laPlLEcsV/?tagged=safirperfume", "nb_comments": 2, "date": "1 juillet 2015", "text": "#Toptentehran #safirperfume#luxury#TehranSensational ScentsBranches: Art Center, Fereshteh, Pasdaran, Almas, HyperstarFor more info: toptenteh.com/household/item/228", "nb_share": 0, "url_image": "https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/11376293_1662067150692953_1862872808_n.jpg", "nb_likes": "47 J\u2019aime"}, {"website": "instagram", "profile": "https://instagram.com/pupamilano.ir/", "author_username": "pupamilano.ir", "link": "https://instagram.com/p/3IksMcEH-2/?tagged=safirperfume", "nb_comments": 4, "date": "26 mai 2015", "text": "\u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0627\u0649 \u0633\u0641\u064a\u0631 \u0627\u0632 \u0628\u0632\u0631\u06af\u062a\u0631\u064a\u0646 \u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0627\u0646 \u067e\u0648\u067e\u0627 \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u06a9\u0634\u0648\u0631:\u0645\u062c\u0645\u0648\u0639\u0647 \u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0627\u0649 \u0639\u0637\u0631 \u0648 \u0644\u0648\u0627\u0632\u0645 \u0622\u0631\u0627\u064a\u0634 \u0633\u0641\u064a\u0631 \u0628\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0645\u0634\u0627\u0648\u0631\u0627\u0646 \u062d\u0631\u0641\u0647 \u0627\u0649 \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0622\u0631\u0627\u064a\u0634\u0649 \u067e\u0648\u067e\u0627 \u0631\u0627 \u0628\u0647 \u0645\u0634\u062a\u0631\u064a\u0627\u0646 \u06af\u0631\u0627\u0645\u0649 \u0645\u0639\u0631\u0641\u0649 \u0645\u0649 \u0646\u0645\u0627\u064a\u0646\u062f.\u0633\u0627\u064a\u0631 \u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0649 \u0647\u0627\u0649 \u067e\u0648\u067e\u0627 \u0628\u0647 \u0632\u0648\u062f\u0649 \u0627\u0639\u0644\u0627\u0645 \u062e\u0648\u0627\u0647\u062f \u0634\u062f.... #pupa#pupacosmetics #pupamakeup #pupamilano #makeup #topmakeup#cosmetics #branch#safirstores#safirperfume#advisors#beautyadvisors#beauty#professional#our#dear#customer#\u067e\u0648\u067e\u0627#\u0644\u0648\u0627\u0632\u0645#\u0622\u0631\u0627\u064a\u0634#\u0645\u0639\u0631\u0641\u0649#\u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0627\u0646#\u0641\u0631\u0648\u0634\u06af\u0627\u0647#\u0633\u0641\u064a\u0631#\u0645\u0634\u0627\u0648\u0631\u0627\u0646#\u062d\u0631\u0641\u0647 \u0627\u0649", "nb_share": 0, "url_image": "https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11363703_469700379861278_1773712811_n.jpg", "nb_likes": "66 J\u2019aime"}]}
+inserting post of this search:safirperfume
+inserting post...
+upserting post
+User found for this post: toptenteh => https://instagram.com/p/4laPlLEcsV/?tagged=safirperfume
+memebers found: 1
+post updated!
+upserting post
+User found for this post: pupamilano.ir => https://instagram.com/p/3IksMcEH-2/?tagged=safirperfume
+memebers found: 1
+post updated!
+WARNING CLOSING CONNEXION
+FB: Search about safirperfume
+Connection to facebook.com
+inserting post of this search:safirperfume
+inserting post...
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.857809560922579/857808614256007/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Nurul Syafwah => https://www.facebook.com/photo.php?fbid=1682289455327741&set=a.1642046076018746.1073742083.100006401073627&type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.856701704366698/856700961033439/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.852691941434341/852690684767800/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.851895644847304/851897388180463/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.851569714879897/851568364880032/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.848058615231007/848058315231037/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.846674022036133/846672128702989/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.846324665404402/846320882071447/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.845098848860317/845098632193672/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.844688805567988/844681478902054/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.840905525946316/840905112613024/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.840162019354000/840159512687584/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.836076719762530/836076269762575/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.834920843211451/834920369878165/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.829915163712019/829914917045377/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.829193433784192.1073741836.148811868489022/829194540450748/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.829193433784192.1073741836.148811868489022/829194620450740/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.823344511035751/823340387702830/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.829915163712019/829914917045377/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.829193433784192.1073741836.148811868489022/829194540450748/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.829193433784192.1073741836.148811868489022/829194620450740/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.823344511035751/823340387702830/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820245974678938/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246091345593/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246181345584/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246581345544/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820250774678458/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820251794678356/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820252278011641/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246301345572/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246764678859/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246848012184/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820248084678727/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820251604678375/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820252068011662/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820252091344993/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.819720694731466/819718368065032/?type=1
+memebers found: 1
+post updated!
+Twitter: Getting users about safirperfume
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling finish
+2835160283 :https://twitter.com/safirperfum
+Brownsing links now
+Twitter: Getting data a this user https://twitter.com/safirperfum
+Error  for https://twitter.com/safirperfum
+Displaying result
+insert user of this searchsafirperfume
+inserting user
+Twitter: Getting list of post about : safirperfume
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling finish
+inserting post of this search:safirperfume
+inserting post...
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: priskila_pt => https://twitter.comhttps://twitter.com/priskila_pt
+memebers found: 1
+post updated!
+upserting post
+User found for this post: NazilaRavandy => https://twitter.comhttps://twitter.com/NazilaRavandy
+memebers found: 1
+post updated!
+upserting post
+User found for this post: luxitup => https://twitter.comhttps://twitter.com/luxitup
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+INSTA:Scrolling to https://instagram.com/explore/tags/safirperfume/
+Error in scrolling of : No need to scroll https://instagram.com/explore/tags/safirperfume/ :
+INSTA: Getting image about:safirperfume
+INSTA: Getting detail about this post:https://instagram.com/p/4laPlLEcsV/?tagged=safirperfume
+{'website': 'instagram', 'profile': u'https://instagram.com/toptenteh/', 'author_username': u'toptenteh', 'link': u'https://instagram.com/p/4laPlLEcsV/?tagged=safirperfume', 'nb_comments': 2, 'date': u'1 juillet 2015', 'text': u'#Toptentehran #safirperfume#luxury#TehranSensational ScentsBranches: Art Center, Fereshteh, Pasdaran, Almas, HyperstarFor more info: toptenteh.com/household/item/228', 'nb_share': 0, 'url_image': u'https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/11376293_1662067150692953_1862872808_n.jpg', 'nb_likes': u'47 J\u2019aime'}
+INSTA: Getting detail about this post:https://instagram.com/p/3IksMcEH-2/?tagged=safirperfume
+{'website': 'instagram', 'profile': u'https://instagram.com/pupamilano.ir/', 'author_username': u'pupamilano.ir', 'link': u'https://instagram.com/p/3IksMcEH-2/?tagged=safirperfume', 'nb_comments': 4, 'date': u'26 mai 2015', 'text': u'\u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0627\u0649 \u0633\u0641\u064a\u0631 \u0627\u0632 \u0628\u0632\u0631\u06af\u062a\u0631\u064a\u0646 \u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0627\u0646 \u067e\u0648\u067e\u0627 \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u06a9\u0634\u0648\u0631:\u0645\u062c\u0645\u0648\u0639\u0647 \u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0627\u0649 \u0639\u0637\u0631 \u0648 \u0644\u0648\u0627\u0632\u0645 \u0622\u0631\u0627\u064a\u0634 \u0633\u0641\u064a\u0631 \u0628\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0645\u0634\u0627\u0648\u0631\u0627\u0646 \u062d\u0631\u0641\u0647 \u0627\u0649 \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0622\u0631\u0627\u064a\u0634\u0649 \u067e\u0648\u067e\u0627 \u0631\u0627 \u0628\u0647 \u0645\u0634\u062a\u0631\u064a\u0627\u0646 \u06af\u0631\u0627\u0645\u0649 \u0645\u0639\u0631\u0641\u0649 \u0645\u0649 \u0646\u0645\u0627\u064a\u0646\u062f.\u0633\u0627\u064a\u0631 \u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0649 \u0647\u0627\u0649 \u067e\u0648\u067e\u0627 \u0628\u0647 \u0632\u0648\u062f\u0649 \u0627\u0639\u0644\u0627\u0645 \u062e\u0648\u0627\u0647\u062f \u0634\u062f.... #pupa#pupacosmetics #pupamakeup #pupamilano #makeup #topmakeup#cosmetics #branch#safirstores#safirperfume#advisors#beautyadvisors#beauty#professional#our#dear#customer#\u067e\u0648\u067e\u0627#\u0644\u0648\u0627\u0632\u0645#\u0622\u0631\u0627\u064a\u0634#\u0645\u0639\u0631\u0641\u0649#\u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0627\u0646#\u0641\u0631\u0648\u0634\u06af\u0627\u0647#\u0633\u0641\u064a\u0631#\u0645\u0634\u0627\u0648\u0631\u0627\u0646#\u062d\u0631\u0641\u0647 \u0627\u0649', 'nb_share': 0, 'url_image': u'https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11363703_469700379861278_1773712811_n.jpg', 'nb_likes': u'66 J\u2019aime'}
+{"posts": [{"website": "instagram", "profile": "https://instagram.com/toptenteh/", "author_username": "toptenteh", "link": "https://instagram.com/p/4laPlLEcsV/?tagged=safirperfume", "nb_comments": 2, "date": "1 juillet 2015", "text": "#Toptentehran #safirperfume#luxury#TehranSensational ScentsBranches: Art Center, Fereshteh, Pasdaran, Almas, HyperstarFor more info: toptenteh.com/household/item/228", "nb_share": 0, "url_image": "https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/11376293_1662067150692953_1862872808_n.jpg", "nb_likes": "47 J\u2019aime"}, {"website": "instagram", "profile": "https://instagram.com/pupamilano.ir/", "author_username": "pupamilano.ir", "link": "https://instagram.com/p/3IksMcEH-2/?tagged=safirperfume", "nb_comments": 4, "date": "26 mai 2015", "text": "\u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0627\u0649 \u0633\u0641\u064a\u0631 \u0627\u0632 \u0628\u0632\u0631\u06af\u062a\u0631\u064a\u0646 \u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0627\u0646 \u067e\u0648\u067e\u0627 \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u06a9\u0634\u0648\u0631:\u0645\u062c\u0645\u0648\u0639\u0647 \u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0627\u0649 \u0639\u0637\u0631 \u0648 \u0644\u0648\u0627\u0632\u0645 \u0622\u0631\u0627\u064a\u0634 \u0633\u0641\u064a\u0631 \u0628\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0645\u0634\u0627\u0648\u0631\u0627\u0646 \u062d\u0631\u0641\u0647 \u0627\u0649 \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0622\u0631\u0627\u064a\u0634\u0649 \u067e\u0648\u067e\u0627 \u0631\u0627 \u0628\u0647 \u0645\u0634\u062a\u0631\u064a\u0627\u0646 \u06af\u0631\u0627\u0645\u0649 \u0645\u0639\u0631\u0641\u0649 \u0645\u0649 \u0646\u0645\u0627\u064a\u0646\u062f.\u0633\u0627\u064a\u0631 \u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0649 \u0647\u0627\u0649 \u067e\u0648\u067e\u0627 \u0628\u0647 \u0632\u0648\u062f\u0649 \u0627\u0639\u0644\u0627\u0645 \u062e\u0648\u0627\u0647\u062f \u0634\u062f.... #pupa#pupacosmetics #pupamakeup #pupamilano #makeup #topmakeup#cosmetics #branch#safirstores#safirperfume#advisors#beautyadvisors#beauty#professional#our#dear#customer#\u067e\u0648\u067e\u0627#\u0644\u0648\u0627\u0632\u0645#\u0622\u0631\u0627\u064a\u0634#\u0645\u0639\u0631\u0641\u0649#\u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0627\u0646#\u0641\u0631\u0648\u0634\u06af\u0627\u0647#\u0633\u0641\u064a\u0631#\u0645\u0634\u0627\u0648\u0631\u0627\u0646#\u062d\u0631\u0641\u0647 \u0627\u0649", "nb_share": 0, "url_image": "https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11363703_469700379861278_1773712811_n.jpg", "nb_likes": "66 J\u2019aime"}]}
+inserting post of this search:safirperfume
+inserting post...
+upserting post
+User found for this post: toptenteh => https://instagram.com/p/4laPlLEcsV/?tagged=safirperfume
+memebers found: 1
+post updated!
+upserting post
+User found for this post: pupamilano.ir => https://instagram.com/p/3IksMcEH-2/?tagged=safirperfume
+memebers found: 1
+post updated!
+WARNING CLOSING CONNEXION
+FB: Search about safirperfume
+Connection to facebook.com
+inserting post of this search:safirperfume
+inserting post...
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.857809560922579/857808614256007/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Nurul Syafwah => https://www.facebook.com/photo.php?fbid=1682289455327741&set=a.1642046076018746.1073742083.100006401073627&type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.856701704366698/856700961033439/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.852691941434341/852690684767800/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.851895644847304/851897388180463/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.851569714879897/851568364880032/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.848058615231007/848058315231037/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.846674022036133/846672128702989/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.846324665404402/846320882071447/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.845098848860317/845098632193672/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.844688805567988/844681478902054/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.840905525946316/840905112613024/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.840162019354000/840159512687584/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.836076719762530/836076269762575/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.834920843211451/834920369878165/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.829915163712019/829914917045377/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.829193433784192.1073741836.148811868489022/829194540450748/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.829193433784192.1073741836.148811868489022/829194620450740/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.823344511035751/823340387702830/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.829915163712019/829914917045377/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.829193433784192.1073741836.148811868489022/829194540450748/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.829193433784192.1073741836.148811868489022/829194620450740/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.823344511035751/823340387702830/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820245974678938/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246091345593/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246181345584/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246581345544/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820250774678458/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820251794678356/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820252278011641/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246301345572/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246764678859/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246848012184/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820248084678727/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820251604678375/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820252068011662/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820252091344993/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.819720694731466/819718368065032/?type=1
+memebers found: 1
+post updated!
+Twitter: Getting users about safirperfume
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling finish
+2835160283 :https://twitter.com/safirperfum
+Brownsing links now
+Twitter: Getting data a this user https://twitter.com/safirperfum
+Error  for https://twitter.com/safirperfum
+Displaying result
+insert user of this searchsafirperfume
+inserting user
+Twitter: Getting list of post about : safirperfume
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling finish
+inserting post of this search:safirperfume
+inserting post...
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: priskila_pt => https://twitter.comhttps://twitter.com/priskila_pt
+memebers found: 1
+post updated!
+upserting post
+User found for this post: NazilaRavandy => https://twitter.comhttps://twitter.com/NazilaRavandy
+memebers found: 1
+post updated!
+upserting post
+User found for this post: luxitup => https://twitter.comhttps://twitter.com/luxitup
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+INSTA:Scrolling to https://instagram.com/explore/tags/safirperfume/
+Error in scrolling of : No need to scroll https://instagram.com/explore/tags/safirperfume/ :
+INSTA: Getting image about:safirperfume
+INSTA: Getting detail about this post:https://instagram.com/p/4laPlLEcsV/?tagged=safirperfume
+{'website': 'instagram', 'profile': u'https://instagram.com/toptenteh/', 'author_username': u'toptenteh', 'link': u'https://instagram.com/p/4laPlLEcsV/?tagged=safirperfume', 'nb_comments': 2, 'date': u'1 juillet 2015', 'text': u'#Toptentehran #safirperfume#luxury#TehranSensational ScentsBranches: Art Center, Fereshteh, Pasdaran, Almas, HyperstarFor more info: toptenteh.com/household/item/228', 'nb_share': 0, 'url_image': 'none', 'nb_likes': u'47 J\u2019aime'}
+INSTA: Getting detail about this post:https://instagram.com/p/3IksMcEH-2/?tagged=safirperfume
+{'website': 'instagram', 'profile': u'https://instagram.com/pupamilano.ir/', 'author_username': u'pupamilano.ir', 'link': u'https://instagram.com/p/3IksMcEH-2/?tagged=safirperfume', 'nb_comments': 4, 'date': u'26 mai 2015', 'text': u'\u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0627\u0649 \u0633\u0641\u064a\u0631 \u0627\u0632 \u0628\u0632\u0631\u06af\u062a\u0631\u064a\u0646 \u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0627\u0646 \u067e\u0648\u067e\u0627 \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u06a9\u0634\u0648\u0631:\u0645\u062c\u0645\u0648\u0639\u0647 \u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0627\u0649 \u0639\u0637\u0631 \u0648 \u0644\u0648\u0627\u0632\u0645 \u0622\u0631\u0627\u064a\u0634 \u0633\u0641\u064a\u0631 \u0628\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0645\u0634\u0627\u0648\u0631\u0627\u0646 \u062d\u0631\u0641\u0647 \u0627\u0649 \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0622\u0631\u0627\u064a\u0634\u0649 \u067e\u0648\u067e\u0627 \u0631\u0627 \u0628\u0647 \u0645\u0634\u062a\u0631\u064a\u0627\u0646 \u06af\u0631\u0627\u0645\u0649 \u0645\u0639\u0631\u0641\u0649 \u0645\u0649 \u0646\u0645\u0627\u064a\u0646\u062f.\u0633\u0627\u064a\u0631 \u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0649 \u0647\u0627\u0649 \u067e\u0648\u067e\u0627 \u0628\u0647 \u0632\u0648\u062f\u0649 \u0627\u0639\u0644\u0627\u0645 \u062e\u0648\u0627\u0647\u062f \u0634\u062f.... #pupa#pupacosmetics #pupamakeup #pupamilano #makeup #topmakeup#cosmetics #branch#safirstores#safirperfume#advisors#beautyadvisors#beauty#professional#our#dear#customer#\u067e\u0648\u067e\u0627#\u0644\u0648\u0627\u0632\u0645#\u0622\u0631\u0627\u064a\u0634#\u0645\u0639\u0631\u0641\u0649#\u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0627\u0646#\u0641\u0631\u0648\u0634\u06af\u0627\u0647#\u0633\u0641\u064a\u0631#\u0645\u0634\u0627\u0648\u0631\u0627\u0646#\u062d\u0631\u0641\u0647 \u0627\u0649', 'nb_share': 0, 'url_image': 'none', 'nb_likes': u'66 J\u2019aime'}
+{"posts": [{"website": "instagram", "profile": "https://instagram.com/toptenteh/", "author_username": "toptenteh", "link": "https://instagram.com/p/4laPlLEcsV/?tagged=safirperfume", "nb_comments": 2, "date": "1 juillet 2015", "text": "#Toptentehran #safirperfume#luxury#TehranSensational ScentsBranches: Art Center, Fereshteh, Pasdaran, Almas, HyperstarFor more info: toptenteh.com/household/item/228", "nb_share": 0, "url_image": "none", "nb_likes": "47 J\u2019aime"}, {"website": "instagram", "profile": "https://instagram.com/pupamilano.ir/", "author_username": "pupamilano.ir", "link": "https://instagram.com/p/3IksMcEH-2/?tagged=safirperfume", "nb_comments": 4, "date": "26 mai 2015", "text": "\u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0627\u0649 \u0633\u0641\u064a\u0631 \u0627\u0632 \u0628\u0632\u0631\u06af\u062a\u0631\u064a\u0646 \u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0627\u0646 \u067e\u0648\u067e\u0627 \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u06a9\u0634\u0648\u0631:\u0645\u062c\u0645\u0648\u0639\u0647 \u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0627\u0649 \u0639\u0637\u0631 \u0648 \u0644\u0648\u0627\u0632\u0645 \u0622\u0631\u0627\u064a\u0634 \u0633\u0641\u064a\u0631 \u0628\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0645\u0634\u0627\u0648\u0631\u0627\u0646 \u062d\u0631\u0641\u0647 \u0627\u0649 \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0622\u0631\u0627\u064a\u0634\u0649 \u067e\u0648\u067e\u0627 \u0631\u0627 \u0628\u0647 \u0645\u0634\u062a\u0631\u064a\u0627\u0646 \u06af\u0631\u0627\u0645\u0649 \u0645\u0639\u0631\u0641\u0649 \u0645\u0649 \u0646\u0645\u0627\u064a\u0646\u062f.\u0633\u0627\u064a\u0631 \u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0649 \u0647\u0627\u0649 \u067e\u0648\u067e\u0627 \u0628\u0647 \u0632\u0648\u062f\u0649 \u0627\u0639\u0644\u0627\u0645 \u062e\u0648\u0627\u0647\u062f \u0634\u062f.... #pupa#pupacosmetics #pupamakeup #pupamilano #makeup #topmakeup#cosmetics #branch#safirstores#safirperfume#advisors#beautyadvisors#beauty#professional#our#dear#customer#\u067e\u0648\u067e\u0627#\u0644\u0648\u0627\u0632\u0645#\u0622\u0631\u0627\u064a\u0634#\u0645\u0639\u0631\u0641\u0649#\u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0627\u0646#\u0641\u0631\u0648\u0634\u06af\u0627\u0647#\u0633\u0641\u064a\u0631#\u0645\u0634\u0627\u0648\u0631\u0627\u0646#\u062d\u0631\u0641\u0647 \u0627\u0649", "nb_share": 0, "url_image": "none", "nb_likes": "66 J\u2019aime"}]}
+inserting post of this search:safirperfume
+inserting post...
+upserting post
+User found for this post: toptenteh => https://instagram.com/p/4laPlLEcsV/?tagged=safirperfume
+memebers found: 1
+post updated!
+upserting post
+User found for this post: pupamilano.ir => https://instagram.com/p/3IksMcEH-2/?tagged=safirperfume
+memebers found: 1
+post updated!
+WARNING CLOSING CONNEXION
+FB: Search about safirperfume
+Connection to facebook.com
+inserting post of this search:safirperfume
+inserting post...
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.857809560922579/857808614256007/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Nurul Syafwah => https://www.facebook.com/photo.php?fbid=1682289455327741&set=a.1642046076018746.1073742083.100006401073627&type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.856701704366698/856700961033439/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.852691941434341/852690684767800/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.851895644847304/851897388180463/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.851569714879897/851568364880032/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.848058615231007/848058315231037/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.846674022036133/846672128702989/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.846324665404402/846320882071447/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.845098848860317/845098632193672/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.844688805567988/844681478902054/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.840905525946316/840905112613024/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.840162019354000/840159512687584/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.836076719762530/836076269762575/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.834920843211451/834920369878165/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.829915163712019/829914917045377/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.829193433784192.1073741836.148811868489022/829194540450748/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.829193433784192.1073741836.148811868489022/829194620450740/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.823344511035751/823340387702830/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.829915163712019/829914917045377/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.829193433784192.1073741836.148811868489022/829194540450748/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.829193433784192.1073741836.148811868489022/829194620450740/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.823344511035751/823340387702830/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820245974678938/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246091345593/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246181345584/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246581345544/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820250774678458/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820251794678356/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820252278011641/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246301345572/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246764678859/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246848012184/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820248084678727/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820251604678375/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820252068011662/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820252091344993/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.819720694731466/819718368065032/?type=1
+memebers found: 1
+post updated!
+Twitter: Getting users about safirperfume
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling finish
+2835160283 :https://twitter.com/safirperfum
+Brownsing links now
+Twitter: Getting data a this user https://twitter.com/safirperfum
+Error  for https://twitter.com/safirperfum
+Displaying result
+insert user of this searchsafirperfume
+inserting user
+Twitter: Getting list of post about : safirperfume
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling finish
+inserting post of this search:safirperfume
+inserting post...
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: priskila_pt => https://twitter.comhttps://twitter.com/priskila_pt
+memebers found: 1
+post updated!
+upserting post
+User found for this post: NazilaRavandy => https://twitter.comhttps://twitter.com/NazilaRavandy
+memebers found: 1
+post updated!
+upserting post
+User found for this post: luxitup => https://twitter.comhttps://twitter.com/luxitup
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+INSTA:Scrolling to https://instagram.com/explore/tags/safirperfume/
+Error in scrolling of : No need to scroll https://instagram.com/explore/tags/safirperfume/ :
+INSTA: Getting image about:safirperfume
+INSTA: Getting detail about this post:https://instagram.com/p/4laPlLEcsV/?tagged=safirperfume
+{'website': 'instagram', 'profile': u'https://instagram.com/toptenteh/', 'author_username': u'toptenteh', 'link': u'https://instagram.com/p/4laPlLEcsV/?tagged=safirperfume', 'nb_comments': 2, 'date': u'1 juillet 2015', 'text': u'#Toptentehran #safirperfume#luxury#TehranSensational ScentsBranches: Art Center, Fereshteh, Pasdaran, Almas, HyperstarFor more info: toptenteh.com/household/item/228', 'nb_share': 0, 'url_image': u'https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/11376293_1662067150692953_1862872808_n.jpg', 'nb_likes': u'47 J\u2019aime'}
+INSTA: Getting detail about this post:https://instagram.com/p/3IksMcEH-2/?tagged=safirperfume
+{'website': 'instagram', 'profile': u'https://instagram.com/pupamilano.ir/', 'author_username': u'pupamilano.ir', 'link': u'https://instagram.com/p/3IksMcEH-2/?tagged=safirperfume', 'nb_comments': 4, 'date': u'26 mai 2015', 'text': u'\u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0627\u0649 \u0633\u0641\u064a\u0631 \u0627\u0632 \u0628\u0632\u0631\u06af\u062a\u0631\u064a\u0646 \u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0627\u0646 \u067e\u0648\u067e\u0627 \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u06a9\u0634\u0648\u0631:\u0645\u062c\u0645\u0648\u0639\u0647 \u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0627\u0649 \u0639\u0637\u0631 \u0648 \u0644\u0648\u0627\u0632\u0645 \u0622\u0631\u0627\u064a\u0634 \u0633\u0641\u064a\u0631 \u0628\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0645\u0634\u0627\u0648\u0631\u0627\u0646 \u062d\u0631\u0641\u0647 \u0627\u0649 \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0622\u0631\u0627\u064a\u0634\u0649 \u067e\u0648\u067e\u0627 \u0631\u0627 \u0628\u0647 \u0645\u0634\u062a\u0631\u064a\u0627\u0646 \u06af\u0631\u0627\u0645\u0649 \u0645\u0639\u0631\u0641\u0649 \u0645\u0649 \u0646\u0645\u0627\u064a\u0646\u062f.\u0633\u0627\u064a\u0631 \u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0649 \u0647\u0627\u0649 \u067e\u0648\u067e\u0627 \u0628\u0647 \u0632\u0648\u062f\u0649 \u0627\u0639\u0644\u0627\u0645 \u062e\u0648\u0627\u0647\u062f \u0634\u062f.... #pupa#pupacosmetics #pupamakeup #pupamilano #makeup #topmakeup#cosmetics #branch#safirstores#safirperfume#advisors#beautyadvisors#beauty#professional#our#dear#customer#\u067e\u0648\u067e\u0627#\u0644\u0648\u0627\u0632\u0645#\u0622\u0631\u0627\u064a\u0634#\u0645\u0639\u0631\u0641\u0649#\u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0627\u0646#\u0641\u0631\u0648\u0634\u06af\u0627\u0647#\u0633\u0641\u064a\u0631#\u0645\u0634\u0627\u0648\u0631\u0627\u0646#\u062d\u0631\u0641\u0647 \u0627\u0649', 'nb_share': 0, 'url_image': u'https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11363703_469700379861278_1773712811_n.jpg', 'nb_likes': u'66 J\u2019aime'}
+{"posts": [{"website": "instagram", "profile": "https://instagram.com/toptenteh/", "author_username": "toptenteh", "link": "https://instagram.com/p/4laPlLEcsV/?tagged=safirperfume", "nb_comments": 2, "date": "1 juillet 2015", "text": "#Toptentehran #safirperfume#luxury#TehranSensational ScentsBranches: Art Center, Fereshteh, Pasdaran, Almas, HyperstarFor more info: toptenteh.com/household/item/228", "nb_share": 0, "url_image": "https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/11376293_1662067150692953_1862872808_n.jpg", "nb_likes": "47 J\u2019aime"}, {"website": "instagram", "profile": "https://instagram.com/pupamilano.ir/", "author_username": "pupamilano.ir", "link": "https://instagram.com/p/3IksMcEH-2/?tagged=safirperfume", "nb_comments": 4, "date": "26 mai 2015", "text": "\u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0627\u0649 \u0633\u0641\u064a\u0631 \u0627\u0632 \u0628\u0632\u0631\u06af\u062a\u0631\u064a\u0646 \u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0627\u0646 \u067e\u0648\u067e\u0627 \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u06a9\u0634\u0648\u0631:\u0645\u062c\u0645\u0648\u0639\u0647 \u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0627\u0649 \u0639\u0637\u0631 \u0648 \u0644\u0648\u0627\u0632\u0645 \u0622\u0631\u0627\u064a\u0634 \u0633\u0641\u064a\u0631 \u0628\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u0645\u0634\u0627\u0648\u0631\u0627\u0646 \u062d\u0631\u0641\u0647 \u0627\u0649 \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0622\u0631\u0627\u064a\u0634\u0649 \u067e\u0648\u067e\u0627 \u0631\u0627 \u0628\u0647 \u0645\u0634\u062a\u0631\u064a\u0627\u0646 \u06af\u0631\u0627\u0645\u0649 \u0645\u0639\u0631\u0641\u0649 \u0645\u0649 \u0646\u0645\u0627\u064a\u0646\u062f.\u0633\u0627\u064a\u0631 \u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0649 \u0647\u0627\u0649 \u067e\u0648\u067e\u0627 \u0628\u0647 \u0632\u0648\u062f\u0649 \u0627\u0639\u0644\u0627\u0645 \u062e\u0648\u0627\u0647\u062f \u0634\u062f.... #pupa#pupacosmetics #pupamakeup #pupamilano #makeup #topmakeup#cosmetics #branch#safirstores#safirperfume#advisors#beautyadvisors#beauty#professional#our#dear#customer#\u067e\u0648\u067e\u0627#\u0644\u0648\u0627\u0632\u0645#\u0622\u0631\u0627\u064a\u0634#\u0645\u0639\u0631\u0641\u0649#\u0646\u0645\u0627\u064a\u0646\u062f\u06af\u0627\u0646#\u0641\u0631\u0648\u0634\u06af\u0627\u0647#\u0633\u0641\u064a\u0631#\u0645\u0634\u0627\u0648\u0631\u0627\u0646#\u062d\u0631\u0641\u0647 \u0627\u0649", "nb_share": 0, "url_image": "https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11363703_469700379861278_1773712811_n.jpg", "nb_likes": "66 J\u2019aime"}]}
+inserting post of this search:safirperfume
+inserting post...
+upserting post
+User found for this post: toptenteh => https://instagram.com/p/4laPlLEcsV/?tagged=safirperfume
+memebers found: 1
+post updated!
+upserting post
+User found for this post: pupamilano.ir => https://instagram.com/p/3IksMcEH-2/?tagged=safirperfume
+memebers found: 1
+post updated!
+WARNING CLOSING CONNEXION
+FB: Search about safirperfume
+Connection to facebook.com
+inserting post of this search:safirperfume
+inserting post...
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.857809560922579/857808614256007/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Nurul Syafwah => https://www.facebook.com/photo.php?fbid=1682289455327741&set=a.1642046076018746.1073742083.100006401073627&type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.856701704366698/856700961033439/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.852691941434341/852690684767800/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.851895644847304/851897388180463/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.851569714879897/851568364880032/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.848058615231007/848058315231037/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.846674022036133/846672128702989/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.846324665404402/846320882071447/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.845098848860317/845098632193672/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.844688805567988/844681478902054/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.840905525946316/840905112613024/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.840162019354000/840159512687584/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.836076719762530/836076269762575/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.834920843211451/834920369878165/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.829915163712019/829914917045377/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.829193433784192.1073741836.148811868489022/829194540450748/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.829193433784192.1073741836.148811868489022/829194620450740/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.823344511035751/823340387702830/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.829915163712019/829914917045377/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.829193433784192.1073741836.148811868489022/829194540450748/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.829193433784192.1073741836.148811868489022/829194620450740/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.823344511035751/823340387702830/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820245974678938/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246091345593/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246181345584/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246581345544/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820250774678458/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820251794678356/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820252278011641/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246301345572/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246764678859/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820246848012184/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820248084678727/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820251604678375/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820252068011662/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/a.820245774678958.1073741835.148811868489022/820252091344993/?type=1
+memebers found: 1
+post updated!
+upserting post
+User found for this post: Amirperfume blogspot => https://www.facebook.com/amir.perfume/photos/pcb.819720694731466/819718368065032/?type=1
+memebers found: 1
+post updated!
+Twitter: Getting users about safirperfume
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling finish
+2835160283 :https://twitter.com/safirperfum
+Brownsing links now
+Twitter: Getting data a this user https://twitter.com/safirperfum
+Error  for https://twitter.com/safirperfum
+Displaying result
+insert user of this searchsafirperfume
+inserting user
+Twitter: Getting list of post about : safirperfume
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling
+scrolling finish
+inserting post of this search:safirperfume
+inserting post...
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: priskila_pt => https://twitter.comhttps://twitter.com/priskila_pt
+memebers found: 1
+post updated!
+upserting post
+User found for this post: NazilaRavandy => https://twitter.comhttps://twitter.com/NazilaRavandy
+memebers found: 1
+post updated!
+upserting post
+User found for this post: luxitup => https://twitter.comhttps://twitter.com/luxitup
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+upserting post
+User found for this post: safirperfumery => https://twitter.comhttps://twitter.com/safirperfumery
+memebers found: 1
+post updated!
+
+twitter: get detail,date,link of post+profile

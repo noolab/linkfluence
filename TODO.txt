@@ -1,0 +1,12 @@
+Data d'un membre: liste des post qui parlent de lui multi media
+
+Data d'un groupe de moclé: une colonne par mot clé
+
+Stats sur un membre: nb likes,posts...
+
+Versionning des posts(table PostStats(date,nb_likes,nb_comments))
+
+versionning du nombre de likes et comments
+
+PostStats(date,nb_likes,nb_comments)
+MemberStats(date,nb_likes,nb_comments)
